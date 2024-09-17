@@ -1,12 +1,18 @@
+body{
+    margin: 0 400px 0 200px;
+}
 h1{
     color: blueviolet;
-    text-align: center;
+    text-align: left;
 }
 h2{
     color: brown;
     font-family: 'Times New Roman', Times, serif;
 }
 img{
-    width: 300px;
+    width: fit-content;
     height: auto;
+}
+span{
+    font-weight: bold;
 }
